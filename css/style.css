@@ -1,0 +1,148 @@
+.body{
+   margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+.topo{
+    display: flex;
+    height: 130px;
+    width: 100%;
+    background-color: #0D986A;
+    border-radius: 0px 0px 0px 50px;
+    justify-content: space-between;
+}
+
+.img_direi_menu{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.-menu{
+    color:white;
+}
+._menu2{
+    color:#ddd;
+}
+.avatar{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    align-items: center;
+}
+.esquerda{
+    height: 120px;
+    width: 50%;
+    padding-left: 10px;
+}
+
+.esq p{
+    margin: 0;
+    height: 0;
+}
+.pesquisar{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    max-width: 500px;
+    margin-top: auto;
+}
+
+.pesquisar{
+    text-align: center;
+    justify-content: center;
+    align-items: flex;
+}
+.topo-dir{
+    margin: 0;
+    padding: 0;
+    margin-right: 19px;
+}
+.botão{
+   padding:0;
+    margin: 0;
+    text-align:center
+}
+.pesquisar input{
+    height: 30px;
+    width: 250px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+.menu img{
+    height: 50px;
+    width: 50px;
+}
+svg
+    {
+        width: 40px;
+        
+    }
+
+    .menu{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .img-esqu{
+        width: 50%;
+    }
+
+    .img_direi{
+        width: 50%;
+    }
+
+    .img1{
+        min-width: 200px;
+        max-width: 200px;
+        border: solid 10px;
+        border-color: whitesmoke;
+        border-radius: 50px;
+    }
+    
+    .img2{
+        min-width: 150px;
+        max-width: 200px;
+        border: solid 10px;
+        border-color: whitesmoke;
+        border-radius: 50px;
+    }
+    .img3{
+        min-width: 200px;
+        max-width: 200px;
+        border: solid 10px;
+        border-color: whitesmoke;
+        border-radius: 50px;
+    }
+    .container2{
+        width: 200px;
+      display: flex;
+    }
+
+    .menu-inferior{
+        margin: auto;
+        display: flex;
+        background-color: #0D986A;
+        width: 450px;
+        height: 60px;
+        position: fixed;
+        top: 90vh;
+        position: fixed;
+        justify-content: space-around;
+        align-items: center;
+        border-radius: 10px 10px 10px 10px;
+    }
+    .img_inf{
+        
+        width: 30px;
+        height: 30px;
+      
+    }
+    
